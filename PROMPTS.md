@@ -62911,3 +62911,16 @@ Contributed by [@mellowdrastic@gmail.com](https://github.com/mellowdrastic@gmail
 
 </details>
 
+<details>
+<summary><strong>Aesthetic Sunset</strong></summary>
+
+## Aesthetic Sunset
+
+Contributed by [@halilibrahimnuroglu@gmail.com](https://github.com/halilibrahimnuroglu@gmail.com)
+
+```md
+8K ultra hd aesthetic, romantic, sunset, golden hour light, warm cinematic tones, soft glow, cozy winter mood, natural candid emotion, shallow depth of field, film look, high detail.
+```
+
+</details>
+
